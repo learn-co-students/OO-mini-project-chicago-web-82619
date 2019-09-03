@@ -12,5 +12,4 @@ class RecipeIngredient
     def self.all
         @@all
     end
-
 end
